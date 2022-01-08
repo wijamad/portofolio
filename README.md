@@ -1,7 +1,7 @@
 # Selamat Datang di Portofolio Saya
 Halmaman ini berisi Polio yang pernah saya buat
 
-### MERN
+### MERN(MySql,Express,React js And Node.js)
 
 - [Website Quiz app dengan JWT jwt authentication](https://github.com/wijamad/quizapp-mern-jwt).
 - [MERNdenganJWTauthentication](https://github.com/wijamad/MERNdenganJWTauthentication).
