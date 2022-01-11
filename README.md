@@ -22,3 +22,8 @@ Halmaman ini berisi Polio yang pernah saya buat
 ### Project Management
 
   - [Si-Tan : Sistem Informasi Pengawasan Ternak pada Usaha Peternakan Bebek Pak Bumantara, Sleman, Yogyakarta](https://drive.google.com/file/d/1-zUsY-VdtDl5odVFwAFEV8DoZ18dTEoh/view?usp=sharing)
+
+
+### E-business
+
+-[Laporan Akhir E-Business Analisis Strategi Bisnis Udemy Course](https://drive.google.com/file/d/14p_V7Aau_UMC_uL5-wXWVRgca2clzWmP/view?usp=sharing)
