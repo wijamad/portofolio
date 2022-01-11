@@ -1,5 +1,5 @@
 # Selamat Datang di Portofolio Saya
-Halmaman ini berisi Polio yang pernah saya buat
+Halmaman ini berisi Portofolio yang pernah saya buat
 
 ### MERN(MySql,Express,React js And Node.js)
 
