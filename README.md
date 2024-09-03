@@ -10,11 +10,14 @@ Halmaman ini berisi Portofolio yang pernah saya buat
 
 - [redux toolkit](https://github.com/wijamad/reduxtolkit)
 
+### Next js
+ - [luminary-projectBriefAi - bikin project briief otomatis](https://github.com/wijayanto1320/luminary-projectBriefAi)
+
 ### Flutter
 
 - [Aplikasi chat dengan firebasestrore dan google sign in](https://github.com/wijamad/chattappflutterfirebase)
 - [aplikasi pencatan keuangan dengan login firebase Auth dan firebasi firestore](https://github.com/wijamad/aplikasikeuangan)
-
+- [PictoText - Mengubah tulisan pada gambar menjadi teks](https://github.com/wijamad/pictotext)
 ### UX Reseacrch
 
 - [Aplikasi Donor Darah](https://www.canva.com/design/DAErNFlTRvw/0ympfPfrrElHwM1PCZdYvQ/edit)'
