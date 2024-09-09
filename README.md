@@ -12,7 +12,7 @@ by Muhamad Wijayanto
 - [redux toolkit](https://github.com/wijamad/reduxtolkit)
 
 ### Next js
- - [luminary-projectBriefAi - bikin project briief otomatis](https://github.com/wijayanto1320/luminary-projectbrief)
+ - [projectBriefAi - bikin project briief otomatis](https://github.com/wijayanto1320/project-brief-ai)
 
 ### Flutter
 
